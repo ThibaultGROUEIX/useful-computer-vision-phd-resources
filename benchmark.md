@@ -35,15 +35,30 @@ $ make -jn
 ```
 
 Then find the executable and launch a Benchmark :
+
+``` sh
+$ cd ./bin/x86_64/linux/release/
+$ ./nbody -benchmark -numbodies=2560000
+```
+
+Here are the results for different GPU I encountered in my life. Feel free to send me your result, I will add them.
+
+GPU | cuda | total time for 10 iterations (s) | billion interactions per second | single-precision GFLOP/s at 20 flops per interaction
+--- | --- | --- | --- | ---
+*Tesla V100-SXM2-16GB* | 10.1 | 119 | 551 | 11021 
+*TITAN X (Pascal)* | 10 | 188 | 349 | 6982
+
+
+
+
 ``` sh
 $ cd ./bin/x86_64/linux/release/
 $ ./nbody -benchmark -numbodies=256000
 ```
 
-Here are the results for different GPU I encountered in my life. Feel free to send me your result, I will add them.
-
 GPU | cuda | total time for 10 iterations (ms) | billion interactions per second | single-precision GFLOP/s at 20 flops per interaction
 --- | --- | --- | --- | ---
+*Tesla V100-SXM2-16GB* | 10.1 | 1425 | 459 | 9197 
 *TITAN X (Pascal)* | 10 | 1656 | 395 | 7910
 *TITAN X (Pascal)* | 9 | 1664 | 393 | 7875
 *TITAN X (Pascal)* | 8 | 1727 | 379 | 7589
