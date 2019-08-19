@@ -116,4 +116,4 @@ sudo apt-get install imagemagick
 convert source.exr dest.png
 ```
 
-# [![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/Manage_EXR_files.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+# [![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/Manage_EXR_files.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)

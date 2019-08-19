@@ -22,7 +22,7 @@ Disk | Timing cached reads | Timing buffered disk reads
 
 
 #### GPU NVIDIA
-I assume that you have a Nvidia GPU with Cuda installed. If not [install cuda 8](https://github.com/ThibaultGROUEIX/workflow_and_installs/tree/master/torch_workflow.md).
+I assume that you have a Nvidia GPU with Cuda installed. If not [install cuda 8](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/tree/master/torch_workflow.md).
 
 Cuda comes with a set of samples that allow you to test your GPU. You need to compile them first.
 ``` sh
@@ -128,4 +128,4 @@ Threads fairness:
 
 ``` 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/benchmark.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/benchmark.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)

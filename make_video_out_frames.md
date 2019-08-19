@@ -55,6 +55,6 @@ If your observing the convergence of a phenomenon over time, you might want to p
 $ ffmpeg -i output.mp4 -i ./converged_image.jpg -filter_complex "[0:v:0]pad=iw*2:ih+1[bg]; [bg][1:v:0]overlay=w" output_with_converged_image.mp4 
 ```
 
-That's it ! The script I use to do this automatically is [here](https://github.com/ThibaultGROUEIX/workflow_and_installs/tree/master/make_video_out_frames.md). Takes two arguments, the directory with the frames, and the directory where I want the created video.
+That's it ! The script I use to do this automatically is [here](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/tree/master/make_video_out_frames.md). Takes two arguments, the directory with the frames, and the directory where I want the created video.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/make_video_out_frames.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/make_video_out_frames.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)

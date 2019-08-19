@@ -115,7 +115,7 @@ This guide describe how to set up a dual boot on a windows 10 machine, with ubun
 
 
 
-### Step 6: Update, Install the basic tool on Ubuntu to set up a good workflow [here](https://github.com/ThibaultGROUEIX/workflow_and_installs/tree/master/useful_basic_install)!
+### Step 6: Update, Install the basic tool on Ubuntu to set up a good workflow [here](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/tree/master/useful_basic_install)!
 
 ### Step 7: change your boot order
 
@@ -143,4 +143,4 @@ sudo apt-get install grub-customizer
   * DNS: open the file ```/etc/resolv.conf```, creating a new line and adding ```nameserver *YOUR_DNS_HERE*```
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/dual_boot.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/dual_boot.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)

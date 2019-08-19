@@ -328,4 +328,4 @@ If you think I forgot something important or super useful, don't hesitate to hel
 If you reach this point without any errors, as you should, you want to say, thank you 'apt-get' ! 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/initial_steps.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/initial_steps.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)

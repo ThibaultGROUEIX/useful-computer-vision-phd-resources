@@ -67,6 +67,6 @@ Hence, you have two options:
 zip -r arxiv.zip my_awesome_submission/
 ```
 
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/arxiv.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/arxiv.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)
 
 ## Contribute :)

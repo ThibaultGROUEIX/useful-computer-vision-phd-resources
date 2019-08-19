@@ -176,4 +176,4 @@ cd /usr/local/cuda-8.0/samples
     33554432                     141485.3
   Result = PASS
 ```
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/initial_steps.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/initial_steps.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)

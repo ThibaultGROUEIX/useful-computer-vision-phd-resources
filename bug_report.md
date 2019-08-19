@@ -61,4 +61,4 @@ If graphic environment works but CUDA fails, try recompiling the samples !
 
 Thanks to **[Pierre-Alain Langlois](https://github.com/palanglois)** for his guidance on this bug!
 
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/bug_report.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/bug_report.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)

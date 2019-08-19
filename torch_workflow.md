@@ -129,4 +129,4 @@ You're all set to start using it to your heart content ! ;)
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/workflow_and_installs/torch_workflow.md?pixel)](https://github.com/ThibaultGROUEIX/workflow_and_installs/)
+[![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/torch_workflow.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)
