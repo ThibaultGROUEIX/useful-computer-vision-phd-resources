@@ -34,7 +34,7 @@ Note. A lot of this stuff is **outdated** now (2019).
   
 
   A few favorites of mine:
-
+* [Good writing tips](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf)
 * [How to write a good CVPR
   submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) by Bill Freeman.
 * [How to write a bad article](https://people.csail.mit.edu/fredo/FredoBadWriting.pdf) by Fredo Durand
