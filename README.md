@@ -34,7 +34,8 @@ Note. A lot of this stuff is **outdated** now (2019).
   
 
   A few favorites of mine:
-* [Good writing tips](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf)
+* [Good writing tips](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf) from Michrosoft research
+* [How to write a good intro](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.gc063be44c9_0_0)
 * [How to write a good CVPR
   submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) by Bill Freeman.
 * [How to write a bad article](https://people.csail.mit.edu/fredo/FredoBadWriting.pdf) by Fredo Durand
