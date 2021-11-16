@@ -20,7 +20,9 @@ Make sure your sources are < 10MB or more for faster download. You can use mogri
 
 ```shell
 gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dP DFSETTINGS=/screen -sOutputFile=OUTPUT.pdf INPUT.pdf
+gs -q -dNOPAUSE -dBATCH -dPDFSETTINGS=/prepress -dCompatibilityLevel=1.4 -sDEVICE=pdfwrite -sOutputFile=OUTPUT.pdf INPUT.pdf
 ```
+
 
 ```shell
 mogrify -resize 50% *.png 
