@@ -31,7 +31,8 @@ Note. A lot of this stuff is **outdated** now (2019).
 
 - [Random Bug reports on Ubuntu 16.04](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/tree/master/bug_report.md)
 
-  
+- [make a video](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/tree/master/video.md)
+
 
   A few favorites of mine:
 * [Good writing tips](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf) from Michrosoft research
