@@ -71,4 +71,15 @@ zip -r arxiv.zip my_awesome_submission/
 
 [![Analytics](https://ga-beacon.appspot.com/UA-91308638-2/github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/arxiv.md?pixel)](https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/)
 
+## Gain space - can be not ok depending on the venue , use at your own risk
+<img width="1362" alt="Screenshot 2023-11-18 at 12 26 19 PM" src="https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/assets/11445067/4fc3d3ca-841d-4419-8c4b-37740411f7eb">
+<img width="597" alt="Screenshot 2023-11-18 at 12 26 11 PM" src="https://github.com/ThibaultGROUEIX/useful-computer-vision-phd-resources/assets/11445067/20f415f2-35c6-4ce9-b08f-792790077bbc">
+
+```
+% Last-minute space-saving commands
+I recommend subtle option unless you really need more. Especially it doesn’t work well with baselinestretch. Subtle and line spacing up to 97% usually is not noticeable and saves a lot of space.
+% \renewcommand{\baselinestretch}{.97}
+\usepackage[subtle]{savetrees} % subtle | moderate | extreme
+```
+
 ## Contribute :)
